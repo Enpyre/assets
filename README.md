@@ -8,5 +8,5 @@ Repository with assets that can be used in the game.
 ## Images
 
 ### Pacman
-- [Pacman](/images/pacman.png)
-- [Cherry](/images/cherry.png)
+- [Pacman](/images/pacman/pacman.png)
+- [Cherry](/images/pacman/cherry.png)
