@@ -5,5 +5,8 @@ Repository with assets that can be used in the game.
 ## Songs
 - [Evolution](/songs/evolution.mp3)
 
-## Sprites
+## Images
 
+### Pacman
+- [Pacman](/images/pacman.png)
+- [Cherry](/images/cherry.png)
